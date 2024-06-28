@@ -18,7 +18,7 @@ Currently, I am researching the influence of the academic environment as a commu
 ### Habilidades
 ![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R&logoColor=30A3DC)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=phyton&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=30A3DC)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
